@@ -15,9 +15,15 @@ h1{
         text-align: center;
         padding: 1.5% 0 1.5% 0;
         display: inline;
+        
 }
 
 nav a{
     color: beige;
     
+}
+
+li {
+    display: inline;
+    padding: 0.5em;
 }
