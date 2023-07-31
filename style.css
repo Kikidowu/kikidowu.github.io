@@ -1,6 +1,5 @@
-body {
+body{
 background-color: rgb(196, 249, 230);
-margin: 0;
 }
 
 h1{
@@ -9,5 +8,9 @@ h1{
     background: darkcyan;
     color: beige;
     margin: 0;
+    padding: 4.5% 0 2% 0;
 }
-    
+    nav{
+        background: white;
+
+    }
